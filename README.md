@@ -67,6 +67,8 @@ My Experience spans:
 
 ---
 
+> *Security is not just about finding bugs — it’s about understanding systems deeply enough to know where they can fail.*
+
 ## 🔍 Selected Work
 
 
@@ -111,4 +113,4 @@ My Experience spans:
 | Ajna Protocol                       | Code4rena     | May 2023    | Solidity    | [1H](https://github.com/code-423n4/2023-05-ajna-findings/issues/251)                           |
 ---
 
-> *Security is not just about finding bugs — it’s about understanding systems deeply enough to know where they can fail.*
+
