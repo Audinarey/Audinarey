@@ -105,7 +105,7 @@ My Experience spans:
 | Rio Network                  | Sherlock     | Feb 2024    | Solidity   | 1M                   |
 | Salty.IO                              | Code4rena     | Jan 2024    | Solidity    | 1H, 1M                  |
 | NextGen                        | Code4rena     | Oct 2023    | Solidity    | 1M                         |
-| Chainlink Staking                               | Code4rena     | Aug 2023    | #2    | Private                 |
+| Chainlink Staking                               | Code4rena     | Aug 2023    | Solidity    | Private                 |
 | Maia Dao Ecosystem       | Code4rena     | May 2023    | Solidity    | 1H, 2M                          |
 | Chainlink CCIP                     | Code4rena     | May 2023    | Solidity    | Private                          |
 | Ajna Protocol                       | Code4rena     | May 2023    | Solidity    | 1H                           |
