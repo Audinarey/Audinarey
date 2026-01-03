@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 I’m a Web3 Security Engineer with experience securing high value web3 production protocols across EVM and non-EVM ecosystems with a strong background in design-level and implementation-level security reviews for complex DeFi systems, including AMMs, CDP, cross-chain infrastructure and financially sensitive logic. Combines deep protocol knowledge with an adversarial mindset, extensive use of Foundry and Hardhat and close collaboration with engineers and researchers to harden protocols from inception through production.
 
-I value collaboration, clear communication during audits, working closely with engineering teams to assess exploitability, prioritize risk, and land practical fixes.
+I value collaboration, clear communication during audits, working closely with engineering teams to assess exploitability, prioritize risk and land practical fixes.
 
 My Experience spans:
 
@@ -41,7 +41,7 @@ My Experience spans:
 ## 🛠️ Technical Focus
 
 ### Smart Contract & Protocol Security
-- Manual audits, threat modeling, and exploit development  
+- Manual audits, threat modeling and exploit development  
 - Foundry-based simulations with production-like assumptions  
 - Account Abstraction (ERC-4337), bundlers, UserOps  
 - Transient storage (EIP-1153), gas & state-model edge cases  
