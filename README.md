@@ -84,9 +84,6 @@ My Experience spans:
 
 | Project                             | Platform      | Date        | Language  | Report                                 |
 |-------------------------------------|---------------|-------------|-------|----------------------------------------|
-| Chainlink Ton CCIP                        | Private     | Dec 2025    | Tolk    | Private                  |  
-| Eigen Layer Token Fork                        | Private     | Nov 2025    | Solidity    | Private                  |  
-| Term Finance                        | Private     | Oct 2025    | Solidity    | Private                  |  
 | Reserve Money                        | Sherlock     | Aug 2025    | Solidity    | [1M](https://audits.sherlock.xyz/contests/1073/voting/748)                  |  
 | Yield Basis                        | Cantina     | Aug 2025    | Vyper    | [1M](https://audits.sherlock.xyz/contests/1102/voting/326)                  |  
 | circuit-puzzles                        | Cantina     | May 2025    | cLisp    | 1M                  |  
