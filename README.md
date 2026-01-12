@@ -76,7 +76,7 @@ My Experience spans:
 | Project                             | Platform      | Date        | Language  | Report                                 |
 |-------------------------------------|---------------|-------------|-------|----------------------------------------|
 | Chainlink Ton CCIP                        | Sigma Prime     | Dec 2025    | Tolk    | Coming Soon                  |  
-| Eigen Layer Token Fork                        | Sigma Prime     | Nov 2025    | Solidity / TS    | [Report](https://github.com/sigp/public-audits/blob/master/reports/eigenlayer/Sigma_Prime_EigenLayer_DA_Secure_Integration_Security_Assessment_Report_v2_0.pdf)                  |  
+| Eigen Layer Token Fork                        | Sigma Prime     | Nov 2025    | Solidity / TS    | Coming Soon                  |  
 | Term Finance                        | Sigma Prime     | Oct 2025    | Solidity    | Private                  |  
 
 
