@@ -73,7 +73,7 @@ My Experience spans:
 
 ### Firm Audit
 
-| Project                             | Platform      | Date        | Language  | Report                                 |
+| Project                             | Firm      | Date        | Language  | Report                                 |
 |-------------------------------------|---------------|-------------|-------|----------------------------------------|
 | Chainlink Ton CCIP                        | Sigma Prime     | Dec 2025    | Tolk    | Coming Soon                  |  
 | Eigen Layer Token Fork                        | Sigma Prime     | Nov 2025    | Solidity / TS    | Coming Soon                  |  
