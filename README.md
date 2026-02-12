@@ -71,7 +71,7 @@ My Experience spans:
 
 ## 🔍 Selected Work
 
-### Firm Audit
+### SIGMA PRIME
 
 | Project                             | Firm      | Date        | Language  | Report                                 |
 |-------------------------------------|---------------|-------------|-------|----------------------------------------|
