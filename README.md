@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 **I'm Audinarey, Smart Contract Security Researcher | Web3 Security Engineer**
 
+[Cantina Profile](https://cantina.xyz/u/Audinarey)
+[Sherlock Profile](https://audits.sherlock.xyz/watson/Audinarey)
+
 ---
 
 ## 👋 About Me
