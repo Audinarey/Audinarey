@@ -35,7 +35,7 @@ I value collaboration, clear communication during audits, working closely with e
 My Experience spans:
 
 - **Smart contract security & audits** (DeFi, bridges, account abstraction, yield protocols)
-- **Cross-chain and non-EVM systems** (Cosmos SDK, CosmWasm, Solana, Aptos, TON)
+- **Cross-chain and non-EVM systems** (Cosmos SDK, CosmWasm, Solana, Aptos, TON, Polkadot)
 - **Security research & tooling** (manual review, fuzzing, invariant testing, PoCs)
 
 
